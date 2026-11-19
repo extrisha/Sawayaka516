@@ -1,0 +1,9 @@
+{
+  "version": "0.8.4",
+  "versionCode": 98,
+  "minVersionCode": 0,
+  "notes": "① 新增学习通位置/拍照/签到码原生签到与安全分流；② 理评改版为静态评价库与飞书表单预填投稿（含匿名校内校验码）；③ 修复点名监控与自动签到状态回写问题；④ 校历/通知/理评/更新源全面迁移至 Cloudflare Pages 与 Sawayaka516 静态分发。",
+  "apk_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.4/app-release.apk",
+  "apk_gitee": "https://dl.sawayaka516.top/0.8.4/app-release.apk",
+  "sha256": "320cad27f6b3168e2146d6fd329444387e26e53ebf0347e330eda2041551290d"
+}
