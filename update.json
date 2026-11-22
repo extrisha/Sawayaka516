@@ -1,9 +1,9 @@
 {
-  "version": "0.8.5",
-  "versionCode": 99,
+  "version": "0.8.6",
+  "versionCode": 100,
   "minVersionCode": 0,
-  "notes": "① 重构「理评」界面与快捷筛选交互，统一全站搜索框样式；② 加固理评匿名校验码（迭代 HMAC-SHA256 按对象隔离指纹）并将防重与快照收口至统一缓存层；③ 安装包瘦身与代码混淆优化（剔除冗余依赖资源、启用原生库压缩与调试符号剥离，体积缩减超 50%）；④ 修复小组件同步、签到弹窗及按压守卫细节。",
-  "apk_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.5/app-release.apk",
-  "apk_gitee": "https://dl.sawayaka516.top/0.8.5/app-release.apk",
-  "sha256": "0d7a574765f0b7cc4bd60d1a066f374ffed13ebbe5fff77bf0de2138a4c4aeeb"
+  "notes": "① 校园地图新增「从这里出发」自定义起点步行规划，升级简称/别名搜索与标签避让，移除高德外链并统一语义色；② 内部模式新增「地图采样」开关，支持静止中位数采点（入口/台阶/坡道/封路/捷径/校验点）、路网叠加预览与诊断页导出；③ 修复定位与采样精度过滤、课程附件下载及若干签到与缓存细节。",
+  "apk_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.6/app-release.apk",
+  "apk_gitee": "https://dl.sawayaka516.top/0.8.6/app-release.apk",
+  "sha256": "3a428371233f2984b20b376979b769edb7eb63224b5445aea27b802737fbc501"
 }
