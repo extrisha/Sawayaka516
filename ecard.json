@@ -1,0 +1,8 @@
+{
+  "tenant_id": "9E3B46CB89164F9A94C0DDD2D2E35446",
+  "welink_api_base": "https://api.welink.huaweicloud.com",
+  "ecard_api_base": "https://ecard.usst.edu.cn/yw",
+  "oauth_client_id": "xKAs6M4X",
+  "oauth_authorize_base": "https://ids6.usst.edu.cn/authserver/oauth2.0/authorize",
+  "oauth_redirect_uri": "https://api.welink.huaweicloud.com/sso/oauth2/magcallback.html"
+}
