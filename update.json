@@ -1,21 +1,21 @@
 {
-  "version": "0.8.7",
-  "versionCode": 101,
+  "version": "0.9.0",
+  "versionCode": 102,
   "minVersionCode": 0,
-  "notes": "① 接入校园卡消费码与月度流水查询，新增「今日」Tab 二次点击与 Android 4×2 小组件消费码直达入口，支持饭点后台预热与亮度守卫；② 完善 Windows 桌面端体验（无边框顶栏、图标侧边栏、Noto Sans SC 字重优化、悬停光标、便携版与安装器双产物及应用内自更新）；③ 完成 12 层全量代码与界面审计修复：优化深浅色对比度与大字体缩放适配，统一动效/按压反馈与嵌套滚动交接，加固登录单飞、缓存安全、Android 小组件字号与 Rust PDF 裁切容错。",
-  "apk_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.7/app-release.apk",
-  "apk_gitee": "https://dl.sawayaka516.top/0.8.7/app-release.apk",
-  "sha256": "49573a153135fc1ce1bea6477eec52db8d9756f69d1d562ac34d8712ad132119",
+  "notes": "① 统一全端应用图标与克制圆角矩形形状语言，主按钮、悬浮球与筛选下拉展开栏视觉全面对齐；② 升级外置扩展宿主至 Host API v3（原生声明式界面、卡片槽与标准化错误规范）；③ 修复课表卡片教师/教室贴底排版、切周渲染与先下拉再滑动卡顿问题，并对齐 Android/Windows 打包脚本。",
+  "apk_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.9.0/app-release.apk",
+  "apk_gitee": "https://dl.sawayaka516.top/0.9.0/app-release.apk",
+  "sha256": "830db39434659b703c2adb558e08b6fc4c014d67775913acc7d02f4bcc6cc2a6",
   "windows": {
-    "version": "0.8.7",
-    "versionCode": 101,
+    "version": "0.9.0",
+    "versionCode": 102,
     "minVersionCode": 0,
-    "notes": "① 接入校园卡消费码与月度流水查询，新增「今日」Tab 二次点击与 Android 4×2 小组件消费码直达入口，支持饭点后台预热与亮度守卫；② 完善 Windows 桌面端体验（无边框顶栏、图标侧边栏、Noto Sans SC 字重优化、悬停光标、便携版与安装器双产物及应用内自更新）；③ 完成 12 层全量代码与界面审计修复：优化深浅色对比度与大字体缩放适配，统一动效/按压反馈与嵌套滚动交接，加固登录单飞、缓存安全、Android 小组件字号与 Rust PDF 裁切容错。",
-    "setup_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.7/litang-windows-x64-setup.exe",
-    "setup_cdn": "https://dl.sawayaka516.top/0.8.7/litang-windows-x64-setup.exe",
-    "setup_sha256": "7fe7cf3219323123c51cbf0aa337015f31a247e32b64a87e4a672c3e490c6d69",
-    "portable_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.8.7/litang-windows-x64-portable.zip",
-    "portable_cdn": "https://dl.sawayaka516.top/0.8.7/litang-windows-x64-portable.zip",
-    "portable_sha256": "c0a133959a41abd7af173ccd50a3b34153b5acae9560736fddaa891b65503fe4"
+    "notes": "① 统一全端应用图标与克制圆角矩形形状语言，主按钮、悬浮球与筛选下拉展开栏视觉全面对齐；② 升级外置扩展宿主至 Host API v3（原生声明式界面、卡片槽与标准化错误规范）；③ 修复课表卡片教师/教室贴底排版、切周渲染与先下拉再滑动卡顿问题，并对齐 Android/Windows 打包脚本。",
+    "setup_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.9.0/litang-windows-x64-setup.exe",
+    "setup_cdn": "https://dl.sawayaka516.top/0.9.0/litang-windows-x64-setup.exe",
+    "setup_sha256": "afc18e99ee2951fbda3898adc1da06cfa71b4a18d345b06141bac86510dfab54",
+    "portable_github": "https://github.com/extrisha/Sawayaka516/releases/download/0.9.0/litang-windows-x64-portable.zip",
+    "portable_cdn": "https://dl.sawayaka516.top/0.9.0/litang-windows-x64-portable.zip",
+    "portable_sha256": "992673036082415651db0e1c2693a681b564dae6a6bf1dc735e924c99c8fab32"
   }
 }
